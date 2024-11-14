@@ -2,6 +2,6 @@ import React from 'react';
 
 export default function Avatar() {
     return (
-        <div className='AI'>Ai</div>
+        <div className='tok'>tok</div>
     )
 }

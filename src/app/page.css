@@ -10,9 +10,10 @@
     align-items: center;
     height: 100vh;
     width: 100vw;
-    background: #4b6cb7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #43C6AC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     
 }
 
 .react-chatbot-kit-chat-container {
@@ -23,7 +24,7 @@
     margin-left: 15px;
 }
 
-.AI {
+.tok {
     background-color: #4b6cb7;
     width: 50px;
     height: 50px;

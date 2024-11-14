@@ -3,10 +3,10 @@ import Avatar from './Avatar';
 import StartBtn from './StartBtn';
 
 const config = {
-  initialMessages: [createChatBotMessage(`Sejam bem vindos ao suporte ao usuário automático da Grand Chase!`, {
+  initialMessages: [createChatBotMessage(`seja bem vindo(a) ao tik tok,aqui o entreterimento e garatido!`, {
     widget: "startBtn"
   })],
-  botName: "Grand Chase AI",
+  botName: "chat bot tik tok",
   customComponents: {
     botAvatar: (props) => <Avatar { ... props}/>
   },
